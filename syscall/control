@@ -1,0 +1,8 @@
+Package: com.lf.syscall
+Name: syscall
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: opa334
+Author: opa334
+Section: Utilities
